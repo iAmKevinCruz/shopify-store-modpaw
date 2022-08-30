@@ -1,0 +1,2020 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#495867",
+    "color_button": "#495867",
+    "color_button_text": "#ffffff",
+    "color_sale_price": "#000000",
+    "color_sale_tag": "#cfe1eb",
+    "color_sale_tag_text": "#495867",
+    "color_cart_dot": "#f75d44",
+    "color_cart_dot_text": "#ffffff",
+    "color_alt_bg": "#cfe1eb",
+    "color_alt_text": "#495867",
+    "color_announcement": "#495867",
+    "color_announcement_text": "#ffffff",
+    "color_newsletter": "#495867",
+    "color_newsletter_text": "#ffffff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_image_text": "#495867",
+    "color_image_overlay": "#ffffff",
+    "color_image_overlay_opacity": 0,
+    "color_image_overlay_text_shadow": 0,
+    "color_small_image_bg": "#ffffff",
+    "color_large_image_bg": "#495867",
+    "type_header_font_family": "montserrat_n5",
+    "type_header_capitalize": false,
+    "type_header_spacing": 50,
+    "type_header_base_size": 25,
+    "type_header_line_height": 1,
+    "type_base_font_family": "nunito_sans_n4",
+    "type_product_capitalize": false,
+    "type_base_spacing": 25,
+    "type_base_size": 16,
+    "type_base_line_height": 1.6,
+    "button_type_style": "caps",
+    "button_style": "round",
+    "animate_images": true,
+    "animate_page_transitions": true,
+    "desktop_loader_width": 100,
+    "mobile_loader_width": 100,
+    "product_hover_details": false,
+    "product_hover_image": true,
+    "product_image_scatter": false,
+    "product_grid_image_size": "square",
+    "product_save_amount": true,
+    "product_save_type": "percent",
+    "product_color_swatches": true,
+    "collection_color_swatches": true,
+    "additional_content_style": "tab",
+    "product_content_1": "refund-and-return-policy",
+    "product_content_2": "image-guidelines",
+    "product_content_3": "shipping-information",
+    "trust_image": "shopify:\/\/shop_images\/MOD_PAWS-9.png",
+    "product_contact": false,
+    "product_contact_title": "Questions?",
+    "product_contact_show_phone": false,
+    "enable_product_reviews": false,
+    "enable_product_reviews_collection": false,
+    "quick_shop_enable": false,
+    "quick_shop_style": "full",
+    "cart_type": "page",
+    "cart_icon": "cart",
+    "cart_additional_buttons": false,
+    "cart_notes_enable": false,
+    "social_instagram_link": "https:\/\/instagram.com\/shopmodpaws",
+    "social_facebook_link": "https:\/\/www.facebook.com\/ModPaws-103871761635531",
+    "social_pinterest_link": "",
+    "favicon": "shopify:\/\/shop_images\/Roxy.jpg",
+    "search_type": "product,article,page",
+    "checkout_logo_image": "shopify:\/\/shop_images\/mod_paws-3.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#495867",
+    "checkout_error_color": "#ff6d6d",
+    "animate_page_transition_style": "page-logo",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "product_video_style": "muted",
+    "reviews_layout": "full",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "header_style": "bar",
+          "main_menu_alignment": "center",
+          "sticky_index": false,
+          "sticky_collection": false,
+          "header_search_enable": true,
+          "logo": "shopify:\/\/shop_images\/mod_paws-3.jpg",
+          "desktop_logo_width": 240,
+          "mobile_logo_width": 200,
+          "logo_hide_mobile": false,
+          "main_menu_link_list": "main-menu",
+          "show_announcement": true,
+          "show_announcement_home_only": false,
+          "announcement_text": "Summer Sale - Save 15% with Code: SUMMER15",
+          "announcement_link": "shopify:\/\/collections\/all"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_newsletter": true,
+          "newsletter_title": "Sign for our Newsletter",
+          "newsletter_richtext": "<p>Sign up to our newsletter to instantly receive 10% off our products, and be notified of exclusive discounts, promotions and more!<\/p>",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "show_currency_flags": true,
+          "show_social_icons": true,
+          "menu": "footer",
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": "support@shopmodpaws.com"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "per_row_desktop": 3,
+          "per_row_mobile": "2",
+          "description_bottom": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_size": "medium",
+          "product_image_type": "slider",
+          "product_zoom_enable": true,
+          "enable_video_looping": true,
+          "product_video_style": "muted",
+          "enable_payment_button": true,
+          "product_shipping_callout": "Satisfaction Guarantee",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 12,
+          "inventory_transfers_enable": false,
+          "quantity_enable": true,
+          "surface_pickup_enable": false,
+          "social_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image": true,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "social_sharing_blog": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_show_tag_filter": true,
+          "blog_show_rss": false,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false
+        }
+      },
+      "product-sections": {
+        "type": "product-sections",
+        "blocks": {
+          "8bce6367-165e-4304-9953-48a3c98f0798": {
+            "type": "text-columns",
+            "settings": {
+              "title": "How it Works",
+              "align_text": "center",
+              "alt": false,
+              "enable_image_1": true,
+              "image_1": "shopify:\/\/shop_images\/1_d5993937-a24d-4658-92da-246497ecfc3c.jpg",
+              "image_width_1": 300,
+              "title_1": "Upload Your Pet Image",
+              "text_1": "<p>Choose your favorite pet image(s)! Refer to our photo guide for inspiration.<\/p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify:\/\/shop_images\/2.jpg",
+              "image_width_2": 300,
+              "title_2": "We Transform Your Pet",
+              "text_2": "<p>Our team of designers will design your pet's image into a modern work of art!<a href=\"https:\/\/shopmodpaws.com\/collections\/all\"><br\/><\/a><\/p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": true,
+              "image_3": "shopify:\/\/shop_images\/3.jpg",
+              "image_width_3": 300,
+              "title_3": "Cherish Your Custom Creation",
+              "text_3": "<p>After production, your customized pet product will arrive in 5-7 business days!<\/p>",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          }
+        },
+        "block_order": [
+          "8bce6367-165e-4304-9953-48a3c98f0798"
+        ],
+        "settings": {
+        }
+      },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "1558643431127": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Featured collection",
+              "description": "",
+              "collection": "frontpage",
+              "per_row": "large",
+              "alt": false
+            }
+          },
+          "efb25b3d-6c5d-4e98-aa12-50c4fe0ed87a": {
+            "type": "testimonials",
+            "settings": {
+              "title": "Testimonials",
+              "align_text": "center",
+              "round_images": false,
+              "alt": false,
+              "testimonial_1": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author_1": "Author's name",
+              "testimonial_2": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author_2": "Author's name"
+            }
+          }
+        },
+        "block_order": [
+          "1558643431127",
+          "efb25b3d-6c5d-4e98-aa12-50c4fe0ed87a"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": true
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign Up and Save 10%",
+          "popup_text": "<p>Sign up to our newsletter to instantly receive 10% off our products, and be notified of exclusive discounts, promotions and more!<\/p>",
+          "enable_newsletter": false,
+          "button_label": "",
+          "button_link": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "title_enable": true,
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "1556162914490": {
+        "type": "featured-collection-slider",
+        "settings": {
+          "title": "Our Best Selling Custom Pet Products",
+          "description": "Transform your pet!",
+          "home_featured_products": "frontpage",
+          "per_row": "medium",
+          "alt": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "medium"
+        }
+      },
+      "social": {
+        "type": "social",
+        "blocks": {
+          "5a53e322-bcef-4ac7-8340-cd8a02be4b93": {
+            "type": "post",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/15_6.png",
+              "link": "https:\/\/www.instagram.com\/p\/CLV9ASij3cI\/",
+              "product": "custom-pet-phone-case-using-pet-photo-name",
+              "account": "ShopModPaws",
+              "caption": "Thank you, Rachel T. for the amazing review and glad you’re so pleased with your phone case.",
+              "likes": ""
+            }
+          },
+          "e292fe55-a236-4971-b626-b0389160f91c": {
+            "type": "post",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Neutral_Client_Testimonial_Instagram_Post-2_1.png",
+              "link": "https:\/\/www.instagram.com\/p\/CJZW4BjlP4x\/",
+              "product": "custom-pet-pillow-using-pet-photo-name",
+              "account": "ShopModPaws",
+              "caption": "A rave review from Meghan G while her cat feels festive under the tree!",
+              "likes": ""
+            }
+          },
+          "b1320dd3-e396-48c4-96ba-34e64b11d946": {
+            "type": "post",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Neutral_Client_Testimonial_Instagram_Post.png",
+              "link": "https:\/\/www.instagram.com\/p\/CJp1pVllR1N\/",
+              "product": "custom-pet-mug",
+              "account": "ShopModPaws",
+              "caption": "We love providing timeless Christmas Gifts to our customers either in Mug or Ornament form.",
+              "likes": ""
+            }
+          },
+          "be7fa6ed-3a5b-4e8d-a9ff-33df9dae91e5": {
+            "type": "post",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3.png",
+              "link": "https:\/\/www.instagram.com\/p\/CJ9qxkoj3FA\/",
+              "product": "custom-pet-mug",
+              "account": "ShopModPaws",
+              "caption": "https:\/\/www.instagram.com\/p\/CJ9qxkoj3FA\/",
+              "likes": ""
+            }
+          },
+          "6894eef7-d51e-48f5-b15e-8625c6bf0118": {
+            "type": "post",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/4_2.png",
+              "link": "https:\/\/www.instagram.com\/p\/CKBBhXYD4tc\/",
+              "product": "custom-pet-pillow-using-pet-photo-name",
+              "account": "ShopModPaws",
+              "caption": "Capturing your pet’s intricate details and getting reviews like this makes it all worthwhile.",
+              "likes": ""
+            }
+          }
+        },
+        "block_order": [
+          "5a53e322-bcef-4ac7-8340-cd8a02be4b93",
+          "e292fe55-a236-4971-b626-b0389160f91c",
+          "b1320dd3-e396-48c4-96ba-34e64b11d946",
+          "be7fa6ed-3a5b-4e8d-a9ff-33df9dae91e5",
+          "6894eef7-d51e-48f5-b15e-8625c6bf0118"
+        ],
+        "settings": {
+          "enable_home": true,
+          "enable_product": true,
+          "enable_collection": true,
+          "title": "#ModPaws",
+          "description": "<p>Join our community of pet lovers by sharing your pet portrait creations! <\/p>"
+        }
+      },
+      "16060002899aba42ce": {
+        "type": "slideshow",
+        "blocks": {
+          "ceacdd60-de1b-489b-b76a-96df4f45f873": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "shopify:\/\/collections\/all",
+              "link_text": "Shop Now",
+              "color_accent": "#495867",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/Website_banner-3.jpg",
+              "focal_point": "center center"
+            }
+          },
+          "16ea20bc-6e7e-4023-9a7a-c5de2e222e3c": {
+            "type": "image",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "shopify:\/\/collections\/all",
+              "link_text": "Shop Now",
+              "color_accent": "#495867",
+              "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify:\/\/shop_images\/13.jpg",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "ceacdd60-de1b-489b-b76a-96df4f45f873",
+          "16ea20bc-6e7e-4023-9a7a-c5de2e222e3c"
+        ],
+        "settings": {
+          "style": "minimal",
+          "desktop_size": 0,
+          "mobile_size": 0,
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
+      },
+      "1606000340e0cc681b": {
+        "type": "testimonials",
+        "blocks": {
+          "1606000340e0cc681b-0": {
+            "type": "testimonial",
+            "settings": {
+              "testimonial": "<p>I was blown away with how perfect the dogs looked and the quality of the mug! Will definitely buy more!<\/p>",
+              "image": "shopify:\/\/shop_images\/iap_640x640.3114987351_8fdxyyju.jpg",
+              "author": "Madeline"
+            }
+          },
+          "1606000340e0cc681b-1": {
+            "type": "testimonial",
+            "settings": {
+              "testimonial": "<p>Absolutely incredible! We lost our boy unexpectedly a little over a week ago and this case brought tears to my eyes. Shipping was so fast and the quality is amazing. Thank you so much. <br\/><\/p>",
+              "image": "shopify:\/\/shop_images\/iap_640x640.3058162327_hfpo18hf.jpg",
+              "author": "Alysha Garrett"
+            }
+          }
+        },
+        "block_order": [
+          "1606000340e0cc681b-0",
+          "1606000340e0cc681b-1"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "align_text": "left",
+          "round_images": true,
+          "alt": true
+        }
+      },
+      "collection-header": {
+        "type": "collection-header",
+        "settings": {
+          "collection_image_enable": true,
+          "description_enable": true
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "blocks": {
+          "59b7e040-f5b9-4744-8617-64d1d6dafddd": {
+            "type": "tags_group",
+            "settings": {
+              "title": "Tag Group",
+              "tag_list": "First tag \nSecond tag \nThird tag"
+            }
+          }
+        },
+        "block_order": [
+          "59b7e040-f5b9-4744-8617-64d1d6dafddd"
+        ],
+        "settings": {
+          "filter_type": "dropdown",
+          "tags_combine": true,
+          "collection_sort_enable": true
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "blocks": {
+          "page-contact-template-0": {
+            "type": "contact-form",
+            "settings": {
+              "title": "",
+              "show_phone": true,
+              "narrow_column": true
+            }
+          }
+        },
+        "block_order": [
+          "page-contact-template-0"
+        ],
+        "settings": {
+          "page_title_enable": true,
+          "page_content_enable": true
+        }
+      },
+      "page-sections-about-us-template": {
+        "type": "page-sections-about-us-template",
+        "blocks": {
+          "e21be44d-420a-4882-a08b-509972383d84": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/6_734a2a7b-b2c3-4df1-9410-dbee3c407613.jpg",
+              "image2": "shopify:\/\/shop_images\/8_8062dc22-6772-4e73-99bd-64c04b42ebf7.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "Modern Custom Pet Products",
+              "text": "<p>We&#x27;re two people who are passionate about pets. We want to allow pet owners to turn their loyal companions into tasteful pieces of art to be remembered. Our aim is simple, to create custom pet products featuring your best friend&#x27;s furry face that are aesthetically pleasing or  complementary to any room. We strive to ensure you&#x27;re always 100% satisfied with your purchase and if you&#x27;re not, please feel free to reach out so we can make it right. Whether you want to turn your pet into a stunning modern Christmas ornament or a breathtaking throw pillow, we&#x27;re the right choice for both you and your pet. <\/p>",
+              "button_label": "Shop Now",
+              "button_link": "shopify:\/\/collections\/all",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "e98bc604-6f30-480f-bff1-bf0685cd27a7": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Transform your Pet",
+              "description": "",
+              "collection": "products",
+              "per_row": "small",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "e21be44d-420a-4882-a08b-509972383d84",
+          "e98bc604-6f30-480f-bff1-bf0685cd27a7"
+        ],
+        "settings": {
+          "page_title_enable": true,
+          "page_content_enable": false
+        }
+      },
+      "page-sections-how-it-works-template": {
+        "type": "page-sections-how-it-works-template",
+        "blocks": {
+          "809752e7-099b-4371-b281-89b048871909": {
+            "type": "text-columns",
+            "settings": {
+              "title": "How it Works",
+              "align_text": "center",
+              "alt": false,
+              "enable_image_1": true,
+              "image_1": "shopify:\/\/shop_images\/1_d5993937-a24d-4658-92da-246497ecfc3c.jpg",
+              "image_width_1": 400,
+              "title_1": "Upload Your Pet Image",
+              "text_1": "<p>Choose your favorite pet image(s)! Refer to our photo guide for inspiration.<\/p>",
+              "button_label_1": "Shop Now",
+              "button_link_1": "shopify:\/\/collections\/all",
+              "enable_image_2": true,
+              "image_2": "shopify:\/\/shop_images\/2.jpg",
+              "image_width_2": 400,
+              "title_2": "We Transform Your Pet",
+              "text_2": "<p>Our team of designers will design your pet's image into a modern work of art!<\/p>",
+              "button_label_2": "Shop Now",
+              "button_link_2": "shopify:\/\/collections\/all",
+              "enable_image_3": true,
+              "image_3": "shopify:\/\/shop_images\/3.jpg",
+              "image_width_3": 400,
+              "title_3": "Cherish Your Custom Creation",
+              "text_3": "<p>After production, your customized pet product will arrive in 5-7 business days!<\/p>",
+              "button_label_3": "Shop Now",
+              "button_link_3": "shopify:\/\/collections\/all"
+            }
+          },
+          "b8e82916-11d8-44f3-a2c3-7690209b792d": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Products You Might Like",
+              "description": "",
+              "collection": "frontpage",
+              "per_row": "small",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "809752e7-099b-4371-b281-89b048871909",
+          "b8e82916-11d8-44f3-a2c3-7690209b792d"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "page-sections-money-back-guarantee-template": {
+        "type": "page-sections-money-back-guarantee-template",
+        "blocks": {
+          "45792e57-0658-49bd-97c7-7784e988e033": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Google_ad_images.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "We'll Take Care of You!",
+              "text": "<p>We believe in our products which is why we can confidently offer a <strong>Satisfaction Guarantee<\/strong>. If the delivered product is defective or the design up to your expectations, please <a href=\"https:\/\/shopmodpaws.com\/pages\/contact-us\">contact us<\/a> to have the product reproduced or redesigned. Unfortunately due to the nature of our products being custom made, we can't offer refunds or exchanges.<\/p>",
+              "button_label": "Shop Now",
+              "button_link": "shopify:\/\/collections\/all",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "57735efb-8bc4-48f1-b4c3-5dea6f54a853": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Products You May Like",
+              "description": "",
+              "collection": "frontpage",
+              "per_row": "small",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "45792e57-0658-49bd-97c7-7784e988e033",
+          "57735efb-8bc4-48f1-b4c3-5dea6f54a853"
+        ],
+        "settings": {
+          "page_title_enable": true,
+          "page_content_enable": false
+        }
+      },
+      "page-sections-why-choose-us-template": {
+        "type": "page-sections-why-choose-us-template",
+        "blocks": {
+          "201c0444-eb3b-4a63-a1b2-d9366bc73127": {
+            "type": "text-columns",
+            "settings": {
+              "title": "Why Choose Us?",
+              "align_text": "center",
+              "alt": false,
+              "enable_image_1": true,
+              "image_1": "shopify:\/\/shop_images\/2_8.jpg",
+              "image_width_1": 650,
+              "title_1": "",
+              "text_1": "<p><strong>Fast Shipping<\/strong><\/p><p>We have streamlined our design and production process which has allowed us to provide the fastest arrival times for your completely custom pet product. <\/p><p><strong>Modern Design<\/strong><\/p><p>Our goal is to provide custom pet products that are aesthetically pleasing or easily match any décor or fit with any room.<\/p><p><strong>Satisfaction Guarantee + 30 Day Money Back Guarantee<\/strong><\/p><p>We believe<strong> <\/strong>in our products which is why we can confidently offer a 100% satisfaction guarantee plus a <strong>30 Day Money Back Guarantee<\/strong>. If the delivered product isn't up to your expectations, please <a href=\"https:\/\/shopmodpaws.com\/pages\/contact-us\" title=\"Contact Us\">contact us<\/a><br\/>to either have the product redesigned or if you wish, a complete refund!<\/p>",
+              "button_label_1": "Shop Now",
+              "button_link_1": "shopify:\/\/collections\/all",
+              "enable_image_2": false,
+              "image_width_2": 650,
+              "title_2": "",
+              "text_2": "",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "b5a4a782-a24c-4b19-8a41-e081b07aa6de": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Products You May Like",
+              "description": "",
+              "collection": "frontpage",
+              "per_row": "small",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "201c0444-eb3b-4a63-a1b2-d9366bc73127",
+          "b5a4a782-a24c-4b19-8a41-e081b07aa6de"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "page-sections-photo-guide-template": {
+        "type": "page-sections-photo-guide-template",
+        "blocks": {
+          "cce11771-4f5f-4fc5-af0b-54e132831946": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/7.jpg",
+              "image2": "shopify:\/\/shop_images\/4-1.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "",
+              "text": "<p><strong>Provide or take a photo in a well lit room or even better outside on a sunny day.<\/strong><\/p>",
+              "button_label": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "0b4e5636-26ee-44f9-836c-2d0774b0cad7": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/9-1.jpg",
+              "image2": "shopify:\/\/shop_images\/5-2.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "",
+              "text": "<p><strong>We suggest no accessories on the pet to better capture all their unique features.<\/strong><\/p>",
+              "button_label": "",
+              "button_style": "primary",
+              "layout": "left",
+              "alt": true
+            }
+          },
+          "718f81af-65df-47ee-a727-7e837384fdc6": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2-4_4eb26c8d-dca7-4e8e-a14b-055ca7a6e563.jpg",
+              "image2": "shopify:\/\/shop_images\/1-1.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "",
+              "text": "<p><strong>Get close to your pet. A photo which is from the pet&#x27;s head to chest works the best. <\/strong><\/p>",
+              "button_label": "",
+              "button_style": "primary",
+              "layout": "right",
+              "alt": false
+            }
+          },
+          "85520b62-2aa7-4f13-b63a-1d5964f88ddc": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/6.jpg",
+              "image2": "shopify:\/\/shop_images\/3-4.jpg",
+              "image_width": 700,
+              "subtitle": "",
+              "title": "",
+              "text": "<p><strong>We suggest a photo of your pet sitting or standing. <\/strong><\/p><p><\/p>",
+              "button_label": "",
+              "button_style": "primary",
+              "layout": "left",
+              "alt": true
+            }
+          },
+          "525808b0-1aa3-4636-8991-d2231d7ec219": {
+            "type": "collection-slider",
+            "settings": {
+              "title": "Products you may like",
+              "description": "",
+              "collection": "frontpage",
+              "per_row": "small",
+              "alt": false
+            }
+          }
+        },
+        "block_order": [
+          "cce11771-4f5f-4fc5-af0b-54e132831946",
+          "0b4e5636-26ee-44f9-836c-2d0774b0cad7",
+          "718f81af-65df-47ee-a727-7e837384fdc6",
+          "85520b62-2aa7-4f13-b63a-1d5964f88ddc",
+          "525808b0-1aa3-4636-8991-d2231d7ec219"
+        ],
+        "settings": {
+          "page_title_enable": true,
+          "page_content_enable": false
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "a5bef91c-ad5a-4717-95da-57913e7091f7": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Custom Product Questions",
+              "text": "",
+              "align_text": "left"
+            }
+          },
+          "a4214461-cf70-4ce3-8896-cd00545b857d": {
+            "type": "question",
+            "settings": {
+              "title": "Do you create custom products for more than cats and dogs?",
+              "text": "<p>Of course we do! Any pet or animal, we will create a modern custom product featuring their lovely face. <\/p>"
+            }
+          },
+          "177e2fad-5573-4889-846a-184801496d1f": {
+            "type": "question",
+            "settings": {
+              "title": "Do you provide a preview of my product before shipment?",
+              "text": "<p>We wish to get your order to you as quickly as possible which means we can&#x27;t provide a preview of your product before shipment. If there are problems with the submitted photos, we will reach out to you. We recommend you view our <a href=\"\/pages\/image-guidelines\" title=\"Photo Guide\" target=\"_blank\">photo guidelines.<\/a> Lastly, you&#x27;re protected with a 100% <a href=\"\/pages\/refund-and-return-policy\" title=\"Satisfaction Guarantee\" target=\"_blank\">satisfaction guarantee<\/a>. <\/p>"
+            }
+          },
+          "64a70ff4-cf87-4a34-89d7-c7534e3f8a0d": {
+            "type": "question",
+            "settings": {
+              "title": "Can I receive a product without my pet's name?",
+              "text": "<p>Of course, simply write &quot;NO NAME&quot; in the Pet Name box. <\/p>"
+            }
+          },
+          "1ea1c048-3d92-47d4-ae2c-f6c7ac98dfb3": {
+            "type": "question",
+            "settings": {
+              "title": "Will my photo work?",
+              "text": "<p>Please review our <a href=\"\/pages\/image-guidelines\" title=\"Photo Guide\" target=\"_blank\">photo guidelines<\/a> before submitting your photo. Remember, these are guidelines but we can work with almost any photo, just the better the photo, the better the finished product. <\/p>"
+            }
+          },
+          "c6b8fd10-ddb4-4ff5-9d66-b2697c3ae862": {
+            "type": "question",
+            "settings": {
+              "title": "Can you create pet memorials?",
+              "text": "<p>Yes, of course. Please include the year or accompanying message in the Pet Name box. <\/p>"
+            }
+          },
+          "c4520106-7a00-4e0d-95c7-1e33fd7a992c": {
+            "type": "question",
+            "settings": {
+              "title": "Can I edit my order after it has been submitted?",
+              "text": "<p>Yes, you have 12 hours to Contact Us and request a change or edit after your order has been submitted.<\/p>"
+            }
+          },
+          "feb8c6d0-a8bd-444b-ad5a-10f075661c42": {
+            "type": "question",
+            "settings": {
+              "title": "Do you include a receipt or invoice in the packaging?",
+              "text": "<p>No invoices or receipts are included in our packages. <\/p>"
+            }
+          },
+          "page-faq-template-0": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Shipping Info",
+              "text": "",
+              "align_text": "left"
+            }
+          },
+          "13e8cd31-4f0d-4757-adaa-9b4d1cb19c9e": {
+            "type": "question",
+            "settings": {
+              "title": "When will I receive my order?",
+              "text": "<p>Please check each product for the individual estimated shipping times. Generally, these are the estimated transit times for each region below. <\/p><p><strong>USA: 1-2 weeks. <\/strong><\/p><p><strong>International: 2-3 weeks. <\/strong><\/p>"
+            }
+          },
+          "92dbb68b-3e8d-4416-b029-020e08cfb0f1": {
+            "type": "question",
+            "settings": {
+              "title": "Where do you ship to?",
+              "text": "<p>We ship to over 90 countries! <\/p>"
+            }
+          },
+          "02ad8249-a805-49db-8940-82ca4b620590": {
+            "type": "question",
+            "disabled": true,
+            "settings": {
+              "title": "What are the shipping charges?",
+              "text": "<p>All USA shipments are shipped for FREE. <\/p><p>For international packages, there are additional shipping charges, depends on the item but we try to keep them reasonable.<\/p>"
+            }
+          },
+          "22c0e660-01aa-4cff-bd08-b717631a0061": {
+            "type": "question",
+            "settings": {
+              "title": "When will I receive tracking information?",
+              "text": "<p>You will receive tracking information as soon as your product is shipped out. This generally takes 1-3 days and is item dependent. <\/p>"
+            }
+          },
+          "a7153094-005e-464b-93a2-0a0a9d192d9d": {
+            "type": "question",
+            "settings": {
+              "title": "Am I able to change my shipping address or cancel my order after it has been placed?",
+              "text": "<p>Yes, you can change your shipping address or cancel your order for up to 12 hours after the order was placed. <\/p>"
+            }
+          },
+          "bf291a0e-5da3-483a-ab50-2e2fafb40f7d": {
+            "type": "question",
+            "settings": {
+              "title": "Will all my products arrive in the same shipment?",
+              "text": "<p>If you order multiple different types of modern products, they may ship separately but at no additional cost to you. <\/p>"
+            }
+          },
+          "page-faq-template-3": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Returns and Replacements",
+              "text": "",
+              "align_text": "left"
+            }
+          },
+          "96eae34e-55a0-496a-87fb-d2e7e3a59a79": {
+            "type": "question",
+            "settings": {
+              "title": "What is your return policy?",
+              "text": "<p>Due to our modern custom pet products being custom made, we can't offer returns\/refunds. We do offer a <a href=\"\/pages\/refund-and-return-policy\" title=\"Satisfaction Guarantee\">Satisfaction Guarantee <\/a>which means we will work with you until we get things right. <\/p>"
+            }
+          },
+          "1cb2a10e-56e0-41a6-bda9-7056beec8447": {
+            "type": "question",
+            "settings": {
+              "title": "What if I dislike my custom product once received?",
+              "text": "<p>You're covered by our <a href=\"\/pages\/refund-and-return-policy\" title=\"Satisfaction Guarantee\">Satisfaction Guarantee<\/a>. Simply contact us and we'll take care of you. <\/p>"
+            }
+          },
+          "20a83a49-35da-4f09-a245-8efd589ea312": {
+            "type": "question",
+            "settings": {
+              "title": "My custom pet product arrive damaged, what do I do?",
+              "text": "<p>Although extremely rare, these things do happen. If that's the case, please <a href=\"\/pages\/contact-us\" title=\"Contact Us\">contact us<\/a> and we will offer you a replacement 100% free of charge. <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "a5bef91c-ad5a-4717-95da-57913e7091f7",
+          "a4214461-cf70-4ce3-8896-cd00545b857d",
+          "177e2fad-5573-4889-846a-184801496d1f",
+          "64a70ff4-cf87-4a34-89d7-c7534e3f8a0d",
+          "1ea1c048-3d92-47d4-ae2c-f6c7ac98dfb3",
+          "c6b8fd10-ddb4-4ff5-9d66-b2697c3ae862",
+          "c4520106-7a00-4e0d-95c7-1e33fd7a992c",
+          "feb8c6d0-a8bd-444b-ad5a-10f075661c42",
+          "page-faq-template-0",
+          "13e8cd31-4f0d-4757-adaa-9b4d1cb19c9e",
+          "92dbb68b-3e8d-4416-b029-020e08cfb0f1",
+          "02ad8249-a805-49db-8940-82ca4b620590",
+          "22c0e660-01aa-4cff-bd08-b717631a0061",
+          "a7153094-005e-464b-93a2-0a0a9d192d9d",
+          "bf291a0e-5da3-483a-ab50-2e2fafb40f7d",
+          "page-faq-template-3",
+          "96eae34e-55a0-496a-87fb-d2e7e3a59a79",
+          "1cb2a10e-56e0-41a6-bda9-7056beec8447",
+          "20a83a49-35da-4f09-a245-8efd589ea312"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "161508968304c3937a": {
+        "type": "text-columns",
+        "blocks": {
+          "1615089684fa41b934-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/1_d5993937-a24d-4658-92da-246497ecfc3c.jpg",
+              "image_width": 400,
+              "title": "Upload Your Pet Image",
+              "text": "<p>Choose your favorite pet image(s)! Refer to our photo guide for inspiration. <\/p>",
+              "button_label": "SHOP NOW",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "72e9edf1-8993-4322-bf1f-3a6c56cd6656": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/2.jpg",
+              "image_width": 400,
+              "title": "We Transform Your Pet",
+              "text": "<p>Our team of designers will design your pet's image into a modern work of art! <\/p>",
+              "button_label": "SHOP NOW",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "229b5423-deba-4762-8c8d-99819e0658a3": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3.jpg",
+              "image_width": 400,
+              "title": "Cherish Your Custom Creation",
+              "text": "<p>After production, your customized pet product will arrive in 5-7 business days!<\/p>",
+              "button_label": "SHOP NOW",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1615089684fa41b934-0",
+          "72e9edf1-8993-4322-bf1f-3a6c56cd6656",
+          "229b5423-deba-4762-8c8d-99819e0658a3"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "center",
+          "alt": false
+        }
+      },
+      "1621483731ec34f89a": {
+        "type": "logo-list",
+        "blocks": {
+          "1621483731ec34f89a-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3_d33aa1c8-3db7-4b5f-8565-55c67cc83bc4.png",
+              "link": "https:\/\/www.cnn.com\/2021\/04\/26\/cnn-underscored\/etsy-mothers-day-gifts\/index.html"
+            }
+          },
+          "1621483731ec34f89a-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1_cd5131de-90e2-46bd-8225-b825a5e1aa55.png",
+              "link": "https:\/\/www.etonline.com\/mothers-day-gifts-from-etsy-jewelry-home-decor-and-more-145757"
+            }
+          },
+          "6e6b1a43-a68e-45cd-8a92-d306a191b0a4": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_4884e8f3-e9a7-46c9-a481-e1dba70a286c.png",
+              "link": "https:\/\/www.thedodo.com\/customizable-products-to-gift-pet-parents"
+            }
+          }
+        },
+        "block_order": [
+          "1621483731ec34f89a-0",
+          "1621483731ec34f89a-1",
+          "6e6b1a43-a68e-45cd-8a92-d306a191b0a4"
+        ],
+        "settings": {
+          "title": "Featured In",
+          "logo_opacity": 100,
+          "alt": true
+        }
+      }
+    },
+    "content_for_index": [
+      "16060002899aba42ce",
+      "1556162914490",
+      "1621483731ec34f89a",
+      "161508968304c3937a",
+      "1606000340e0cc681b"
+    ]
+  },
+  "presets": {
+    "Core": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "round",
+      "button_type_style": "normal",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#f9f9f9",
+      "color_alt_text": "#000000",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#f75d44",
+      "color_cart_dot_text": "#ffffff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_overlay_text_shadow": 20,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#fff",
+      "color_sale_price": "#000000",
+      "color_sale_tag": "#990000",
+      "color_small_image_bg": "#ffffff",
+      "desktop_loader_width": 100,
+      "mobile_loader_width": 100,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "roboto_condensed_n4",
+      "type_base_line_height": 1.6,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 46,
+      "type_header_capitalize": true,
+      "type_header_font_family": "roboto_condensed_i7",
+      "type_header_line_height": 1,
+      "type_header_spacing": "-25",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": false,
+            "header_search_enable": true,
+            "show_announcement": false,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "menu": "footer",
+            "newsletter_title": "Join the club",
+            "newsletter_richtext": "",
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1559681273277": {
+              "type": "image-hero",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-center horizontal-center"
+              }
+            },
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 450,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "large"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 60,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            }
+          },
+          "block_order": [
+            "1559681273277",
+            "1558643031646",
+            "1558643392013",
+            "1558643431127",
+            "1558643225272"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "1543003878234": {
+          "type": "featured-collections",
+          "blocks": {
+            "1543003878234-0": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-1": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-2": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "1543003878234-3": {
+              "type": "collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1543003878234-0",
+            "1543003878234-1",
+            "1543003878234-2",
+            "1543003878234-3"
+          ],
+          "settings": {
+            "alt": true,
+            "title": "Shop all"
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection",
+          "settings": {
+            "per_row_desktop": 4,
+            "per_row_mobile": "2",
+            "description": "For more traditional layouts"
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559096311192": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559096311192-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559097202495": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559096311192-0",
+            "1559097202495"
+          ],
+          "settings": {
+            "style": "gif",
+            "title": "Make an impression",
+            "title_size": 80,
+            "text_align": "vertical-center horizontal-center"
+          }
+        },
+        "1559098181700": {
+          "type": "slideshow",
+          "blocks": {
+            "1559098181700-0": {
+              "type": "image",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-bottom horizontal-left"
+              }
+            }
+          },
+          "block_order": [
+            "1559098181700-0"
+          ],
+          "settings": {
+          }
+        },
+        "1559321610782": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "1559585995085": {
+          "type": "featured-collection-slider",
+          "settings": {
+            "description": "With infinite scrolling"
+          }
+        },
+        "1559586187853": {
+          "type": "marquee",
+          "settings": {
+            "text": "Follow us for monthly apparel giveaways",
+            "text_size": 36
+          }
+        },
+        "1559687247066": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Our story",
+            "button_style": "secondary",
+            "layout": "right"
+          }
+        },
+        "1559687361077": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_label": "Contact us",
+            "button_style": "secondary",
+            "layout": "left"
+          }
+        },
+        "1559687710135": {
+          "type": "map",
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "1559321610782",
+        "1559585995085",
+        "1558626745581",
+        "1559096311192",
+        "1556162914490",
+        "1559098181700",
+        "1556162802939",
+        "1543003878234",
+        "1559687247066",
+        "1559687361077",
+        "1559687710135",
+        "1559586187853"
+      ]
+    },
+    "Luxe": {
+      "animate_images": true,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_use_header_image": false,
+      "color_alt_bg": "#ffffff",
+      "color_alt_text": "#333029",
+      "color_announcement": "#c67066",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#fdfbfa",
+      "color_body_text": "#333029",
+      "color_button": "#c67066",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#c67066",
+      "color_drawer_background": "#fdf9f5",
+      "color_drawer_text": "#333029",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#eee5e0",
+      "color_newsletter": "#c67066",
+      "color_newsletter_text": "#ffffff",
+      "color_sale_price": "#333029",
+      "color_sale_tag": "#c67066",
+      "color_small_image_bg": "#fdfbfa",
+      "desktop_loader_width": 140,
+      "mobile_loader_width": 130,
+      "product_grid_image_size": "natural",
+      "product_hover_details": true,
+      "product_hover_image": true,
+      "product_image_scatter": false,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "futura_n4",
+      "type_base_line_height": 1.7,
+      "type_base_size": 18,
+      "type_base_spacing": "25",
+      "type_header_base_size": 50,
+      "type_header_capitalize": false,
+      "type_header_font_family": "itc_novarese_n5",
+      "type_header_line_height": 1.1,
+      "type_header_spacing": "0",
+      "type_product_capitalize": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": true,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": false
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 47,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643225272",
+            "1558643431127",
+            "1558643392013"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "title_enable": true,
+            "display_type": "all"
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "btn",
+            "layout": "right"
+          }
+        },
+        "1555439851826": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "right"
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1558625522348": {
+          "type": "background-image-text",
+          "settings": {
+            "color_border": "#4f1c3a",
+            "layout": "left"
+          }
+        },
+        "1558626497917": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-center horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559155590855": {
+          "type": "text-columns",
+          "blocks": {
+            "1559155590855-0": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason one"
+              }
+            },
+            "1559155590855-1": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason two"
+              }
+            }
+          },
+          "block_order": [
+            "1559155590855-0",
+            "1559155590855-1"
+          ],
+          "settings": {
+            "title": "Why choose us?",
+            "align_text": "center",
+            "alt": true
+          }
+        },
+        "password-header": {
+          "type": "password-header",
+          "settings": {
+          }
+        },
+        "password-content": {
+          "type": "password-content",
+          "settings": {
+            "newsletter_enable": true,
+            "show_share_buttons": false,
+            "show_image": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "small"
+          }
+        }
+      },
+      "content_for_index": [
+        "1558626497917",
+        "1556162914490",
+        "1558626745581",
+        "1555097143929",
+        "1555439851826",
+        "1559155590855",
+        "1556162802939",
+        "1558625522348"
+      ]
+    },
+    "Hype": {
+      "animate_images": false,
+      "animate_page_transition_style": "page-logo",
+      "button_style": "shadow",
+      "cart_type": "sticky",
+      "checkout_accent_color": "#111111",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_input_background_color_mode": "white",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_sidebar_background_color": "#fafafa",
+      "color_alt_bg": "#000000",
+      "color_alt_text": "#ffffff",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_body_bg": "#ffffff",
+      "color_cart_dot": "#FF2300",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_bg": "#000000",
+      "color_image_overlay": "#000000",
+      "color_image_overlay_opacity": 10,
+      "color_image_text": "#ffffff",
+      "color_large_image_bg": "#000000",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#ffffff",
+      "color_small_image_bg": "#f2f2f2",
+      "desktop_loader_width": 190,
+      "mobile_loader_width": 180,
+      "product_grid_image_size": "natural",
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_image_scatter": true,
+      "product_video_style": "muted",
+      "reviews_layout": "full",
+      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+      "social_instagram_link": "https:\/\/instagram.com\/shopify",
+      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "type_base_font_family": "basic_commercial_n7",
+      "type_base_line_height": 1.3,
+      "type_base_size": 20,
+      "type_base_spacing": "25",
+      "type_header_base_size": 48,
+      "type_header_capitalize": true,
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_line_height": 0.9,
+      "type_header_spacing": "25",
+      "type_product_capitalize": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": true,
+            "show_announcement": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right"
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643431127"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {
+          }
+        },
+        "1559240039950": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559240039950-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559240039950-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1559309176406": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1559240039950-0",
+            "1559240039950-1",
+            "1559309176406"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 72,
+            "text_align": "vertical-bottom horizontal-right"
+          }
+        },
+        "1559241610369": {
+          "type": "marquee",
+          "settings": {
+            "text": "☞ FREE SHIPPING AND RETURNS",
+            "text_size": 70,
+            "text_spacing": true,
+            "color_scheme": "text",
+            "direction": "left"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "large"
+          }
+        },
+        "1559249041610": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-left",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        }
+      },
+      "content_for_index": [
+        "1559240039950",
+        "1555097143929",
+        "1559241610369",
+        "1556162914490",
+        "1559249041610",
+        "1556162802939"
+      ]
+    }
+  }
+}
